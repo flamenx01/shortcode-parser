@@ -18,13 +18,13 @@ Shortcode parser written in JavaScript.
 Install:
     
 ```shell
-npm install shortcode-parser
+npm install shortcode-parser-fixed
 ```
     
 Install from git Repository:
 
 ```shell
-git clone https://github.com/derdesign/shortcode-parser.git
+git clone https://github.com/flamenx01/shortcode-parser.git
 ```
     
 Running tests:
@@ -36,7 +36,7 @@ make test
 Require the library:
 
 ```javascript
-var shortcode = require('shortcode-parser');
+var shortcode = require('shortcode-parser-fixed');
 ```
     
 Adding shortcodes:
